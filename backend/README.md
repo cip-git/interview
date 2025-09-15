@@ -16,7 +16,7 @@
 - `mvn package && java -jar target/interview-1.0-SNAPSHOT.jar`
 
 #### Test that your app is running
-- `curl -X GET   http://localhost:8080/api/welcome`
+- `curl -X GET   http://localhost:8080/tekmetric/api/welcome`
 
 #### After finishing the goals listed below create a PR
 
@@ -33,7 +33,7 @@ This is an open ended exercise for you to showcase what you know! We encourage y
 - Console: http://localhost:8080/h2-console 
 - JDBC URL: jdbc:h2:mem:testdb
 - Username: sa
-- Password: password
+- Password: pw
 
 ### Submitting your coding exercise
 Once you have finished the coding exercise please create a PR into Tekmetric/interview
