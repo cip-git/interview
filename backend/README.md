@@ -5,6 +5,10 @@
 #### Prerequisites
 - Maven
 - Java 1.8 (or higher, update version in pom.xml if needed)
+- 
+#### Compile with:
+ - Java 21
+ - Maven 3.9.x
 
 #### Fork the repository and clone it locally
 - https://github.com/Tekmetric/interview.git
